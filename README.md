@@ -9,8 +9,8 @@ Given the `root` of a binary tree, return _the maximum **path sum** of any **non
 
 **Constraints:**
 
-The number of nodes in the tree is in the range $`[1, 3 * 10^4]`$.
-`-1000 <= Node.val <= 1000`
+- The number of nodes in the tree is in the range $`[1, 3 * 10^4]`$.
+- `-1000 <= Node.val <= 1000`
 ## My Solution
 
 My Solution is in the `Solution.java` file and the result of my submission is the following:
